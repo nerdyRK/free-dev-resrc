@@ -1,0 +1,21 @@
+html {
+  overflow: hidden;
+}
+
+.overlay {
+  animation: motion 4s linear;
+}
+
+@keyframes motion {
+  0% {
+    transform: scale(1) translatey(-100vh);
+  }
+  30% {
+    opacity: 0.5;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.3);
+  }
+}
