@@ -32,11 +32,11 @@ export default function Contact() {
 
   return (
     <div>
-      <p className="mb-4 text-center py-6 text-gray-300">
+      <p className="mb-4 text-center py-6 text-yellow-300">
         If you did not find any resource in a category that can be useful for
         other developers, you can send a message. I will review and add that.
       </p>
-      <div className="max-w-lg mx-auto p-14 bg-bgd text-white rounded-lg shadow-md">
+      <div className="max-w-lg mx-auto sm:p-14 p-8 bg-bgd text-white rounded-lg shadow-md">
         <form onSubmit={onSubmit} className="mb-4">
           <div className="mb-4">
             <label
