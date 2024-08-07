@@ -42,7 +42,7 @@ function Home() {
   }, []);
 
   return (
-    <div className="ml-64 bg-bgl min-h-[92vh] p-4">
+    <div>
       {categories.map((category, index) => (
         <div key={index} ref={(el) => (sectionRefs.current[index] = el)}>
           <CategorySection category={category} />

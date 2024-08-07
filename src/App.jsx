@@ -10,7 +10,9 @@ const App = () => {
       <Navbar />
       <Sidebar />
       <Overlay />
-      <Outlet />
+      <div className="sm:ml-64 bg-bgl min-h-[92vh] p-4">
+        <Outlet />
+      </div>
     </div>
   );
 };
