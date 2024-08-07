@@ -2,6 +2,7 @@
 import { useEffect, useRef } from "react";
 import CategorySection from "../components/CategorySection";
 import categories from "../utils/sitesData";
+import Overlay from "../components/Overlay";
 
 function Home() {
   const sectionRefs = useRef([]);
@@ -41,7 +42,7 @@ function Home() {
   }, []);
 
   return (
-    <div className="ml-64 p-4">
+    <div className="ml-64 bg-bgl min-h-[92vh] p-4">
       {categories.map((category, index) => (
         <div key={index} ref={(el) => (sectionRefs.current[index] = el)}>
           <CategorySection category={category} />

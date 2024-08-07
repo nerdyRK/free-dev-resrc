@@ -11,7 +11,7 @@ const Overlay = () => {
     <div
       className={`${
         isOverlay ? "overlay" : "translate-y-[-100vh]"
-      } bg-black absolute inset-0 z-11 duration-1000`}
+      } bg-black fixed inset-0 z-111 duration-1000`}
     >
       <h1 className="absolute sm:max-w-2/3 sm:left-[12vw] left-[0vw] px-10 sm:px-10 text-center sm:text-5xl text-3xl top-[40vh]">
         Your First source for development ease journey..🚌
