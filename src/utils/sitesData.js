@@ -1,6 +1,6 @@
 const data = [
   {
-    category: "free Pictures",
+    category: "For Pictures",
     resources: [
       {
         id: 1,
@@ -38,8 +38,8 @@ const data = [
   },
 
   {
-    category: "free icons",
-    keywords: ["free icons", "frontend"],
+    category: "For icons and SVG illustrations",
+    keywords: ["free icons", "frontend", "illustration", "svg"],
     resources: [
       {
         id: 21,
@@ -53,6 +53,61 @@ const data = [
         name: "React-icons",
         url: "https://react-icons.github.io/react-icons/",
         description: "Easy to use Icons with your React Project",
+      },
+      {
+        id: 23,
+        name: "Lord Icons",
+        url: "https://lordicon.com/",
+        description:
+          "Lordicon is a growing library full of carefully crafted, high-quality static and <animated-icons> you won’t find anywhere else.",
+      },
+      {
+        id: 24,
+        name: "Icon Scout",
+        url: "https://iconscout.com/",
+        description:
+          "Get access to Over 9.4 Million+ Design Assets selected by our designer community. Use these high-quality <3D> assets for all your website or mobile app design, marketing and development needs — from three-dimensional prototypes and mockups to social media collaterals, infographics, presentations and more. Available in PNG, BLEND, glTF, C4D, OBJ, PSD or FBX file formats.",
+      },
+      {
+        id: 25,
+        name: "Hero Icons",
+        url: "https://heroicons.com/",
+        description:
+          "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS. Copy in the form of JSX or SVG",
+      },
+      {
+        id: 26,
+        name: "Dev UI",
+        url: "https://www.devui.io/",
+        description:
+          "DevUI is an UI component library built with Tailwind CSS, designed to help developers create beautiful and responsive interfaces quickly and easily. With a wide range of customizable components, DevUI offers developers the flexibility they need to create interfaces that fit the unique requirements of their projects.",
+      },
+    ],
+  },
+  {
+    category: "Background pattern and Gradient",
+    keywords: ["background", "gradient", "pattern", "frontend"],
+    resources: [
+      {
+        id: 31,
+        name: "Copy Background Gradients",
+        url: "https://webgradients.com/",
+        description:
+          "WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. Easy copy CSS3 crossbrowser code and use it in a moment! We've also prepared a .PNG version of each gradient.",
+      },
+      {
+        id: 32,
+        name: "Shape Divider Generator",
+        url: "https://www.shapedivider.app/",
+        description:
+          "make it easier for designers and developers to export a beautiful SVG shape divider for their project.",
+      },
+      {
+        id: 33,
+        name: "Hero Patterns",
+        url: "https://heropatterns.com/",
+        description:
+          "A collection of repeatable SVG background patterns for you to use on your web projects.",
       },
     ],
   },
