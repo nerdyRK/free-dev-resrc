@@ -111,6 +111,67 @@ const data = [
       },
     ],
   },
+  {
+    category: "Make Form Submissions working with only Frontend",
+    keywords: ["form", "contact form", "form submissions", "frontend"],
+    resources: [
+      {
+        id: 41,
+        name: "Formspree",
+        url: "https://formspree.io/",
+        description:
+          "With a couple of changes to your existing form, your Formspree submissions will start appearing in the Formspree dashboard. <Easy to integrate> <50 free monthly form submissions>",
+      },
+      {
+        id: 42,
+        name: "Web3Forms",
+        url: "https://web3forms.com/",
+        description:
+          "The easiest way to submit your form. No need to create account for using it. Just fill the email on which you want to submit your form and you will get a token that you need to use to make your form working. and thats it.<250 free submissions>",
+      },
+      {
+        id: 43,
+        name: "EmailJS",
+        url: "https://www.emailjs.com//",
+        description:
+          "Choose from a wide variety of email services.They support both transactional email services (Mailgun, Mailjet, Mailtrap, SendinBlue and Postmark) and personal email services (AOL, Gmail, FastMail, iCloud, Mail.ru, Outlook, Yahoo, Yandex and Zoho).Easily build your own template. Choose the tool most suitable for you: text editor or code editor. Templates are parameterized so that you can further customize them from your code.<200 free submissions>",
+      },
+    ],
+  },
+  {
+    category: "Generous Free Hosting",
+    keywords: ["free hosting", "frontend", "deploy", "nextjs", "backend"],
+    resources: [
+      {
+        id: 51,
+        name: "Vercel",
+        url: "https://vercel.com/",
+        description:
+          "On vercel you can deploy your React project(in case you built a frontend only) and NextJS projects which can have serverless functions for backend code.Also provide Automatic CI/CD,custom domain support,Serverless Compute,Traffic & performance insights",
+      },
+      {
+        id: 52,
+        name: "Netlify",
+        url: "https://www.netlify.com/",
+        description:
+          "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitation. It is for React frontend or other static sites using HTML, CSS, and JavaScript. It also provides Automatic CI/CD,custom domain support and 100GB free bandwidth/month and 300 build minutes/month",
+      },
+      {
+        id: 54,
+        name: "Firebase Hosting",
+        url: "https://firebase.google.com/products/hosting",
+        description:
+          "Firebase Hosting is a fast and secure static and dynamic web hosting service provided by Google. It is optimized for serving both static content (HTML, CSS, JavaScript) and dynamic content, integrating seamlessly with Firebase's backend services like Firestore and Realtime Database. Firebase Hosting offers free SSL, CDN integration, and easy deployment with the Firebase CLI. However, it has usage limits on bandwidth and storage under the free plan, and advanced features may require paid plans.",
+      },
+      {
+        id: 53,
+        name: "GitHub Pages",
+        url: "https://pages.github.com/",
+        description:
+          "GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a GitHub repository, optionally runs the files through a build process, and publishes a website. It offers seamless integration with GitHub repositories, custom domain support, and unlimited free bandwidth. Ideal for personal, organization, or project pages, but lacks advanced features like server-side processing or direct database connections.",
+      },
+    ],
+  },
 ];
 
 export default data;

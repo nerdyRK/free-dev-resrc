@@ -1,5 +1,9 @@
-export const categories = [
-  "free Pictures",
-  "free icons and SVG illustrations",
-  "Background pattern and Gradient",
-];
+import data from "../utils/sitesData";
+
+const categories = [];
+
+data.forEach((category) => {
+  categories.push(category.category);
+});
+
+export default categories;

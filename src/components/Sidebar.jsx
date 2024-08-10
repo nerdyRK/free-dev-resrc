@@ -1,5 +1,5 @@
 // Sidebar.js
-import { categories } from "../utils/categories";
+import categories from "../utils/categories";
 
 function Sidebar({ isSidebarOpen, toggleSidebar }) {
   return (
