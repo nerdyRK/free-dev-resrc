@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs style="vector-effect: non-scaling-stroke;">
+  <symbol height="128px" id="svg_1" preserveAspectRatio="xMidYMid meet" style="vector-effect: non-scaling-stroke;" viewBox="0 0 300.000000 300.000000" width="128px" xmlns="http://www.w3.org/2000/svg">
+   <metadata style="vector-effect: non-scaling-stroke;">Created by potrace 1.10, written by Peter Selinger 2001-2011</metadata>
+   <g fill="#000000" style="--darkreader-inline-fill: #000000; vector-effect: non-scaling-stroke;" transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)">
+    <path d="m604,1702c-24,-35 -44,-66 -44,-70c0,-4 75,-6 167,-4c148,2 172,0 203,-16c87,-47 90,-166 5,-215c-11,-7 -68,-14 -128,-17l-107,-5l0,98l0,97l-72,0l-73,0l2,-162l2,-163l188,0c210,1 244,9 311,76c57,56 76,104 76,189c0,86 -22,140 -75,184c-65,55 -84,60 -253,66l-158,5l-44,-63zm382,-9c104,-55 142,-180 88,-284c-14,-28 -84,-107 -84,-95c0,3 -16,-2 -35,-10c-25,-10 -77,-14 -195,-14l-160,0l0,114c0,108 1,115 21,121c30,10 39,-9 39,-81c0,-51 4,-64 24,-83c23,-22 31,-23 134,-20c95,4 113,7 144,29c50,34 68,69 68,133c0,68 -28,113 -90,144c-39,20 -61,23 -167,23c-68,0 -123,4 -123,9c0,5 3,17 6,26c6,15 23,16 148,13c121,-3 147,-6 182,-25z" style="vector-effect: non-scaling-stroke;"/>
+    <path d="m1170,1503l0,-263l199,0l199,0l46,65c25,36 46,68 46,70c0,3 -79,5 -175,5l-175,0l0,30l0,30l123,0l122,1l40,61c22,33 41,64 43,67c1,3 -72,4 -163,2l-165,-3l0,31l0,31l133,0l132,0l43,63c23,34 42,64 42,67c0,3 -110,5 -245,5l-245,0l0,-262zm404,202c-11,-27 -38,-34 -150,-36c-100,-1 -111,-3 -131,-25c-22,-24 -23,-31 -9,-72c11,-33 44,-42 162,-42c57,0 104,-4 104,-9c0,-5 -7,-17 -16,-25c-12,-13 -38,-16 -119,-16c-101,0 -104,-1 -125,-27c-25,-32 -20,-69 12,-95c17,-15 41,-18 145,-18c123,0 124,0 121,-22c-3,-23 -5,-23 -180,-26l-178,-2l0,208c0,115 3,212 7,215c3,4 86,7 184,7c156,0 178,-2 173,-15z" style="vector-effect: non-scaling-stroke;"/>
+    <path d="m1680,1764c0,-2 44,-70 98,-153c53,-83 126,-196 162,-252c83,-129 121,-149 172,-93c18,21 318,472 324,488c3,7 -25,10 -83,9l-88,-2l-73,-113c-40,-62 -86,-135 -101,-161l-28,-48l-59,93c-93,147 -122,192 -136,210c-10,12 -34,17 -100,20c-49,3 -88,3 -88,2zm172,-73c14,-16 32,-39 39,-52c25,-49 103,-165 127,-191c14,-16 33,-28 43,-28c21,0 68,53 105,117c16,26 31,50 34,53c4,3 19,26 33,51c37,64 59,81 97,77l31,-3l-67,-105c-173,-272 -209,-320 -238,-320c-18,0 -33,14 -58,53c-44,66 -161,246 -205,314c-18,28 -33,54 -33,57c0,3 15,6 33,6c24,0 41,-8 59,-29z" style="vector-effect: non-scaling-stroke;"/>
+   </g>
+  </symbol>
+  <linearGradient id="svg_5">
+   <stop offset="0.402686" stop-color="#000000"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <use fill="url(#svg_5)" id="svg_2" stroke="#ffffff" transform="matrix(6.84171 0 0 13.8423 -137.554 -676.341)" x="2.865927" xlink:href="#svg_1" y="0"/>
+  <g id="svg_3" style="vector-effect: non-scaling-stroke;"/>
+ </g>
+</svg>

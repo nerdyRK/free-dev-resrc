@@ -170,6 +170,20 @@ const data = [
         description:
           "GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a GitHub repository, optionally runs the files through a build process, and publishes a website. It offers seamless integration with GitHub repositories, custom domain support, and unlimited free bandwidth. Ideal for personal, organization, or project pages, but lacks advanced features like server-side processing or direct database connections.",
       },
+      {
+        id: 55,
+        name: "Railway",
+        url: "https://railway.app/",
+        description:
+          "Railway is the cloud for building, shipping, and monitoring applications. No Platform Engineer required. For free tier, It provides you with $5 credits/month to use for your backend api or frontend app. It is better than Our next platform which is render because render spin down its server and it takes around 3os and more to spin it up which can be downside for your hobby project or if you are doing any assignment for a job application",
+      },
+      {
+        id: 56,
+        name: "Render",
+        url: "https://render.com/",
+        description:
+          "Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth. In free tier, you get a server that will spin down with inactivity qnd then take half minute or more to get your app ready in response when someone hits a request.",
+      },
     ],
   },
 ];
