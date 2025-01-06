@@ -77,10 +77,10 @@ const data = [
       },
       {
         id: 26,
-        name: "Dev UI",
-        url: "https://www.devui.io/",
+        name: "Undraw",
+        url: "https://undraw.co/",
         description:
-          "DevUI is an UI component library built with Tailwind CSS, designed to help developers create beautiful and responsive interfaces quickly and easily. With a wide range of customizable components, DevUI offers developers the flexibility they need to create interfaces that fit the unique requirements of their projects.",
+          "Undraw is a free and open source illustration library for designers and developers. It is a place where you can find illustrations for your next project.Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity.",
       },
     ],
   },
