@@ -82,6 +82,13 @@ const data = [
         description:
           "Undraw is a free and open source illustration library for designers and developers. It is a place where you can find illustrations for your next project.Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity.",
       },
+      {
+        id: 27,
+        name: "UI VERSE",
+        url: "https://uiverse.io/",
+        description:
+          "The Largest Library of Open-Source UI Community-built library of Ul elements.Copy as HTML/CSS, Tailwind, React and Figma.",
+      },
     ],
   },
   {
